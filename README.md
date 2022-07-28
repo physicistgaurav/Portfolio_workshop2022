@@ -6,13 +6,17 @@ It is a simple mobile-app portfolio designed to present an interesting outlook o
 HOME PAGE <br/>
 ![](images/home.png)
 <br/>
+<br/>
+<br/>
 About PAGE <br/>
 ![](images/about.png)
+<br/>
+<br/>
 <br/>
 
 
 Projects <br/>
-![](images/project.png)
+![](images/projects.png)
 <br/>
 
 
