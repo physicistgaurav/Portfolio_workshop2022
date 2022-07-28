@@ -1,16 +1,18 @@
-# portfolio_grz
+# Portfolio
+It is a simple mobile-app portfolio designed to present an interesting outlook of oneself. In this portfolio, one can present his/her skills, their projects and also a brief introduction of themselves. It uses basic widgtes and this project was setup to give the workshop on 'Beginners guide to FLutter UI Development.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+HOME PAGE <br/>
+![](images/home.png)
+<br/>
+About PAGE <br/>
+![](images/about.png)
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Projects <br/>
+![](images/project.png)
+<br/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
