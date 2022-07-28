@@ -3,19 +3,19 @@ It is a simple mobile-app portfolio designed to present an interesting outlook o
 
 
 
-HOME PAGE <br/>
+<b>HOME PAGE <br/>
 ![](images/home.png)
 <br/>
 <br/>
 <br/>
-About PAGE <br/>
+<b>About PAGE <br/>
 ![](images/about.png)
 <br/>
 <br/>
 <br/>
 
 
-Projects <br/>
+<b> Projects <br/>
 ![](images/projects.png)
 <br/>
 
